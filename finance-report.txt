@@ -1,0 +1,58 @@
+ACME Corp — Monthly Finance Report
+Period: 2026-04 (Apr 1–Apr 30, 2026)
+Currency: USD
+Prepared by: Finance Ops (sample data)
+
+1) Executive summary
+- Revenue increased due to higher subscription renewals and one-time services.
+- Expenses rose driven by cloud spend and contractor costs.
+- Net income improved vs prior month.
+
+2) Profit & Loss (P&L)
+Revenue
+- Subscriptions:              482,000
+- Professional Services:       74,500
+- Interest/Other:               3,200
+Total Revenue:                559,700
+
+Cost of Goods Sold (COGS)
+- Hosting & Infrastructure:   112,900
+- Payment Processing Fees:     16,300
+Total COGS:                   129,200
+
+Gross Profit:                 430,500
+Gross Margin:                   76.9%
+
+Operating Expenses (OpEx)
+- Payroll (Salaries):         210,000
+- Benefits & Taxes:            48,000
+- Sales & Marketing:           64,500
+- R&D Tools/Licenses:          21,800
+- General & Admin:             28,400
+- Contractors:                 35,000
+Total OpEx:                   407,700
+
+Operating Income:              22,800
+- Depreciation/Amortization:    4,500
+Net Income:                    18,300
+
+3) Cash position (month end)
+- Starting Cash Balance:      315,000
+- Cash In (collections):      528,400
+- Cash Out (payables/payroll):508,900
+Ending Cash Balance:          334,500
+
+4) Accounts Receivable (AR) aging
+- Current (0–30 days):        118,000
+- 31–60 days:                  24,500
+- 61–90 days:                   7,800
+- 90+ days:                     2,100
+Total AR:                     152,400
+
+5) Notes / Risks
+- Cloud cost spike linked to analytics batch jobs; optimize queries and enable autoscaling limits.
+- Two invoices >60 days; collections follow-up scheduled.
+
+6) Approvals (sample)
+- Finance Lead: __________________  Date: ________
+- CFO:          __________________  Date: ________
