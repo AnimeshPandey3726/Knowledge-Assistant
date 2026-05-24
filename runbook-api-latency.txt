@@ -1,0 +1,13 @@
+API Latency Runbook
+
+Troubleshooting Steps:
+1. Check CPU utilization
+2. Check DB connection count
+3. Verify autoscaling status
+4. Review recent deployments
+5. Check APAC traffic spike
+
+Recommended Mitigation:
+- Scale application pods
+- Optimize slow SQL queries
+- Increase connection pool
