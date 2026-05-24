@@ -1,0 +1,57 @@
+ACME Corp — Security Guidelines (Sample)
+Version: 1.0
+Owner: Security Team
+Applies to: All employees, contractors, and vendors with access to ACME systems
+
+1) Account security
+- Use a unique password for all ACME accounts.
+- Minimum password length: 14 characters.
+- Enable MFA on all services that support it.
+- Never share credentials. No exceptions.
+
+2) Device security
+- Company devices must use full-disk encryption.
+- Enable screen lock after 5 minutes idle.
+- Keep OS and software up to date (auto-update preferred).
+- Do not install unapproved software.
+
+3) Data handling and classification
+Data classes:
+- Public: safe to share externally.
+- Internal: ACME-only; share on a need-to-know basis.
+- Confidential: sensitive business/customer data; encrypt in transit and at rest.
+Rules:
+- Do not store Confidential data in personal cloud accounts.
+- Use approved storage (e.g., company drive) with access controls.
+
+4) Email and phishing
+- Treat unexpected links/attachments as suspicious.
+- Verify payment requests or account changes via a second channel.
+- Report suspected phishing to: security@example.com (sample).
+
+5) Access control
+- Least privilege: request only the access you need.
+- Quarterly access reviews required for critical systems (sample).
+- Remove access promptly when roles change.
+
+6) Incident reporting
+Report immediately if you suspect:
+- lost/stolen device
+- unauthorized access
+- malware infection
+- data exposure
+Include: time, system, what happened, and any screenshots/logs (if safe).
+Security contact: security@example.com (sample)
+Severity:
+- SEV1: active breach / customer impact
+- SEV2: suspected compromise
+- SEV3: policy violation / low-risk event
+
+7) Secure development (if applicable)
+- No secrets in code (use vault/secret manager).
+- Use dependency scanning and patch critical vulnerabilities within 7 days (sample).
+- Code reviews required for production changes.
+
+Acknowledgement
+I will follow these guidelines and report incidents promptly.
+Name: __________________  Date: ________
