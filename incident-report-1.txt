@@ -1,0 +1,24 @@
+Production Incident Report
+Date: 2026-05-10
+
+Issue:
+API latency increased from 200ms to 3 seconds.
+
+Impact:
+Checkout failures for 18% of users.
+
+Root Cause:
+Database connection pool exhaustion.
+
+Observations:
+- Traffic spike from APAC region
+- Autoscaling delay
+- CPU utilization exceeded 92%
+
+Resolution:
+- Increased DB pool size
+- Restarted application pods
+- Enabled aggressive autoscaling
+
+Status:
+Resolved
