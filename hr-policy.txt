@@ -1,0 +1,40 @@
+ACME Corp — HR Policy (Sample)
+Last updated: 2026-05-01
+Owner: People Operations
+
+1) Employment classification
+- Full-time employees: 40 hours/week standard.
+- Part-time employees: <40 hours/week.
+- Contractors: not eligible for employee benefits unless specified by contract.
+
+2) Equal Employment Opportunity (EEO)
+ACME Corp provides equal employment opportunities to all employees and applicants without regard to race, color, religion, sex, national origin, age, disability, or any other legally protected status.
+
+3) Anti-harassment and non-retaliation
+- Harassment is prohibited in all forms (verbal, physical, visual, digital).
+- Retaliation against individuals who report concerns in good faith is prohibited.
+Reporting:
+- Email: people-ops@example.com
+- Anonymous hotline: (000) 000-0000 (sample)
+
+4) Leave policy (summary)
+- Paid Time Off (PTO): 20 days/year for full-time employees (accrual monthly).
+- Sick leave: 10 days/year.
+- Holidays: 10 company holidays/year.
+- Parental leave: 12 weeks (primary caregiver), 6 weeks (secondary) (sample).
+
+5) Expense reimbursement (high level)
+- Business expenses must be pre-approved when possible.
+- Receipts required for expenses over $25.
+- Reimbursements processed within 10 business days (sample).
+
+6) Performance and conduct
+- Expectations: professionalism, confidentiality, compliance with security practices.
+- Disciplinary action may include coaching, written warning, suspension, or termination.
+
+7) Data privacy and confidentiality
+Employees must protect company and customer data and follow the Security Guidelines document. Access to sensitive data is limited to business need.
+
+Acknowledgement
+I acknowledge that I have read and understood this HR Policy.
+Name: __________________  Signature: __________________  Date: ________
