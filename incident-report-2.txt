@@ -1,0 +1,19 @@
+Security Incident
+Date: 2026-05-15
+
+Issue:
+Unauthorized login attempts detected.
+
+Impact:
+No customer data exposed.
+
+Root Cause:
+Credential stuffing attack.
+
+Actions Taken:
+- Enabled stricter WAF rules
+- Forced password reset
+- Enabled MFA enforcement
+
+Status:
+Mitigated
